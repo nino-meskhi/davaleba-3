@@ -31,9 +31,30 @@ div {
   margin-right: 500px;
   margin-left: 500px;
 }
-h2 {
+.info {
 	font-size: 20px;
 	font-family: BPGNinoMtavruli;
 	font-weight: normal;
 	color: #3D58A6;
+  white-space: nowrap;
+}
+.active {
+	color: #EE4036;
+}
+.vertical-line {
+   display: inline-block;
+   border-left: 1px solid #ccc;
+   margin: 0 10px;
+   height: 25px;
+   color: red;
+  padding-right: 13px;
+    }
+.contact {
+  font-family: BPGIngiriArial;
+	font-size: 16px;
+	color: #808080;
+	white-space: nowrap;
+    }
+.BB {
+	padding-right: 15px;
 }
