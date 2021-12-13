@@ -1,7 +1,7 @@
 ul {
 	list-style-type: none;
 	font-size: 22px;
-	font-family: BPGNinoMtavruli-Bold;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	color: #3D58A6;
 	padding-left: 0;
 }
@@ -19,7 +19,7 @@ div {
 }
 h2 {
 	font-size: 48px;
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-weight: normal;
 	color: #FFFFFF;
 	margin: 5px;
@@ -27,7 +27,7 @@ h2 {
 }
 h3 {
 	font-weight: normal;
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-size: 22px;
 	color: #3D58A6;
 	padding-top: 1px;
@@ -36,7 +36,7 @@ h3 {
 }
 p {
 	font-size: 20px;
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	margin-top: 5px;
 }
 .vertical-line {
@@ -52,6 +52,7 @@ p {
 }
 .paragraph {
 	font-size: 16px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 .FL {
 	padding-right: 15px;

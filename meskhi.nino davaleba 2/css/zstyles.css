@@ -1,7 +1,7 @@
 ul {
 	list-style-type: none;
 	font-size: 22px;
-	font-family: BPGNinoMtavruli-Bold;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	color: #3D58A6;
 	padding-left: 0;
 }
@@ -17,7 +17,7 @@ footer {
 }
 p {
 	font-weight: normal;
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-size: 20px;
 	color: #3D58A6;
 	
@@ -33,7 +33,7 @@ div {
 }
 .info {
 	font-size: 20px;
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-weight: normal;
 	color: #3D58A6;
   white-space: nowrap;
@@ -50,7 +50,7 @@ div {
   padding-right: 13px;
     }
 .contact {
-  font-family: BPGIngiriArial;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-size: 16px;
 	color: #808080;
 	white-space: nowrap;
